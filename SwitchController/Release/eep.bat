@@ -1,0 +1,1 @@
+start hex2bin.exe SwitchController.eep

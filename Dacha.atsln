@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "SwitchController", "SwitchController\SwitchController.cppproj", "{C9A60E38-56D7-4982-BCF3-48F62F0E590C}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "DebugHelper", "DebugHelper\DebugHelper.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "OWTest", "OWTest\OWTest.cppproj", "{8059E5C7-4059-494D-BBFE-7958C4246663}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A60E38-56D7-4982-BCF3-48F62F0E590C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C9A60E38-56D7-4982-BCF3-48F62F0E590C}.Debug|AVR.Build.0 = Debug|AVR
+		{C9A60E38-56D7-4982-BCF3-48F62F0E590C}.Release|AVR.ActiveCfg = Release|AVR
+		{C9A60E38-56D7-4982-BCF3-48F62F0E590C}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{8059E5C7-4059-494D-BBFE-7958C4246663}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8059E5C7-4059-494D-BBFE-7958C4246663}.Debug|AVR.Build.0 = Debug|AVR
+		{8059E5C7-4059-494D-BBFE-7958C4246663}.Release|AVR.ActiveCfg = Release|AVR
+		{8059E5C7-4059-494D-BBFE-7958C4246663}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
